@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**ahitecreditninja/ahitecreditninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Abigail Hite 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a **Vanderbilt University** student and a **2-year Strategy & Operations Intern** at **Ninja**.
+
+> Interested in strategy, operations, and technology.
+
+---
+
+## Experience
+
+- **Strategy & Operations Intern @ Ninja** (2 years)
+- Supported strategic initiatives
+- Improved operational processes
+- Worked with cross-functional teams
+
+---
+
+## Education
+
+**Vanderbilt University**
+
+---
+
+## Skills
+
+- Strategy
+- Operations
+- Analytics
+- GitHub
+
+---
+
+- [x] Vanderbilt Student
+- [x] 2-Year Strategy & Operations Intern
